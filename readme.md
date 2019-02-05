@@ -14,8 +14,9 @@ Picasso painting (Chollet, n.d.). At first, the forger(generator) is pretty bad 
 We have used a  **Deep Convolutional GAN (DCGAN)** which is very similar to GAN, but specifically focuses on using Deep Convolutional networks in place of those fully-connected networks. Convolutional networks in general find areas of correlation within an image.
 
 
-Results
+## Results
 
 ![](/images/lll.png)
+![](/images/llll.png)
 
 
