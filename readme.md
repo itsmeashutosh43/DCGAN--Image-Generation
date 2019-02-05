@@ -16,6 +16,6 @@ We have used a  **Deep Convolutional GAN (DCGAN)** which is very similar to GAN,
 
 Results
 
-![Alt text][images/lll.png]
+![](/images/lll.png)
 
 
